@@ -219,3 +219,4 @@ man \
 
 The Ur is developed by Pellegrino Prevete and released under the
 terms of the GNU Affero General Public License version 3.
+4df81caf8c1f53594e818278df8f20a987bd5433
